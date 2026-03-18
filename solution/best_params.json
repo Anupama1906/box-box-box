@@ -1,0 +1,13 @@
+{
+  "tire_offsets": {
+    "SOFT": -0.5,
+    "MEDIUM": 0.0,
+    "HARD": 0.5
+  },
+  "degradation_rates": {
+    "SOFT": 0.16929720971280612,
+    "MEDIUM": 0.06506321376607964,
+    "HARD": 0.03
+  },
+  "temp_coeff": 0.004409321154588204
+}

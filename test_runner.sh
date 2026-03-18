@@ -4,7 +4,7 @@
 # Usage: ./test_runner.sh "your_solution_command"
 # Example: ./test_runner.sh "python solution.py"
 
-set -e
+
 
 # Colors for output
 RED='\033[0;31m'
